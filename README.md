@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @prasannajit working as a software dev engineer II at Tesco Bangalore.
-- 👀 I’m interested in DS, Algorithms, nodejs, reactjs ,cloud computing and AWS
+- 👋 Hi, I’m @prasannajit working as a principal engineer at Salesforce Hyderabad.
+- 👀 I’m interested in DS, Algorithms, nodejs, reactjs, nextjs, cloud computing, personalization, analytics and AWS
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... email: prasannajit@gmail.com
